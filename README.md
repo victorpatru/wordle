@@ -1,6 +1,17 @@
-## Wordle Clone
+# 🎲 Wordle Clone
 
-#### For a live demo of the product please refer to the following website: https://sunny-pixie-233b35.netlify.app/
+### 🛠️ Built with
+HTML, CSS (flexbox), Vanilla Javascript
+
+### 💻 Features built:
+* Generate the Wordle board using vanilla Javascript
+* Pick a random word to match from an array of over 7000+ five letter words
+* Provide the user with six total guesses to match the randomly chosen five letter word
+* Color the guess relative to the correct word
+* Provide user feedback if the person has either: guessed the right word or ran out of guesses
+* Add a mobile friendly keyboard
+
+### 🎆 For a live demo of the product please refer to the following website: https://sunny-pixie-233b35.netlify.app/
 
 <img width="499" alt="CleanShot 2022-05-01 at 19 07 03@2x" src="https://user-images.githubusercontent.com/102596893/166154356-59ad933a-3df3-4939-a4a3-594c00f916c4.png">
 
@@ -10,11 +21,5 @@
 
 
 
-Features built:
-* Generate the Wordle board using vanilla Javascript
-* Pick a random word to match from an array of over 7000+ five letter words
-* Provide the user with six total guesses to match the randomly chosen five letter word
-* Color the guess relative to the correct word
-* Provide user feedback if the person has either: guessed the right word or ran out of guesses
-* Add a mobile friendly keyboard
+
 
